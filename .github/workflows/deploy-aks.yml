@@ -12,7 +12,7 @@ permissions:
 env:
    RESOURCE_GROUP: RG-AKS-DEMO
    AKS_CLUSTER_NAME: isrxl-aks-demo-1
-   LOCATION: australiaeast
+   LOCATION: southeastasia
 
 jobs:
   build:
